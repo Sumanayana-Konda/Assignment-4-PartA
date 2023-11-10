@@ -5,6 +5,8 @@
 Assignment 4 Part A
 Replicating Data Engineering Pipelines with Snowpark Python 
 
+Here is an overview:
+<img src="images/demo_overview.png" width=800px>
 ## Prerequisites
 
 - Proficiency in Python
